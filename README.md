@@ -14,3 +14,6 @@ Features:
  
  http://dylanmeville.com
  http://twitter.com/DMeville
+
+Genome2D: https://github.com/pshtif/Genome2D
+Nape: https://github.com/deltaluca/nape
